@@ -1,0 +1,17 @@
+.navbar{
+    font-family: ;
+    font-weight: bold;
+}
+.social-buttons{
+    color: rgb(62, 199, 44);
+    
+}
+/* .background {
+    height: 500px;
+    width: 500px;
+    background-repeat: repeat;
+} */
+.background{
+    background-repeat:-y;
+
+}
