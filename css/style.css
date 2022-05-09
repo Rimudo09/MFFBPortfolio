@@ -1,7 +1,10 @@
 .navbar{
-    font-family: ;
+    font-family: 'Amatic SC', cursive;;
     font-weight: bold;
+    font-size: 35px;
+
 }
+
 .social-buttons{
     color: rgb(62, 199, 44);
     
@@ -12,6 +15,11 @@
     background-repeat: repeat;
 } */
 .background{
-    background-repeat:-y;
+    z-index: -1;
+    margin-left: 10%;
 
+
+}
+.btn{
+    background-color: rgb(216, 73, 202);
 }
